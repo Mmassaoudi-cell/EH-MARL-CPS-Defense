@@ -1,7 +1,7 @@
 # EH-MARL: Hierarchical Multi-Agent RL for Adaptive CPS Defense
 
 > **Paper:** "Multi-Agent Hierarchical Reinforcement Learning for Adaptive Cyber-Physical System Defense"  
-> **Authors:** Mohamed Massaoudi, Maymouna Ez Eddin, Khandaker Akramul Haque, Katherine R. Davis  
+> **Authors:** Mohamed Massaoudi, Maymouna Ez Eddin, Katherine R. Davis  
 > **Affiliation:** Texas A&M University · Tarleton State University  
 > **Support:** U.S. Department of Energy, Award DE-CR0000018
 
